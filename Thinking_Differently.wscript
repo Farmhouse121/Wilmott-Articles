@@ -1,3 +1,4 @@
+#!/usr/bin/env wolframscript
 (* Script to compute figures for Wilmott article: Thinking Differently About Asset Allocation, runs in WolframScript https://www.wolfram.com/wolframscript/ *)
 
 (* empty the workspace *)
