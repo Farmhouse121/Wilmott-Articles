@@ -11,4 +11,5 @@ This contains notebooks and scripts used to support my writing in WILMOTT Magazi
 | 2023/07 | Thinking Differently About Asset Allocation                                   |[Thinking_Differently.wscript](https://www.github.com/Farmhouse121/Wilmott-Articles/blob/main/Thinking_Differently.wscript)|
 | 2023/09 | Asymmetric Response is a Persistent Feature of Stock Markets                  |[Asymmetric_Response.ipynb](https://www.github.com/Farmhouse121/Wilmott-Articles/blob/main/Asymmetric_Response.ipynb)|
 | 2023/11 | Learning About Trading Strategy by Driving Around                             | No empirical work is associated with this article.|
+| 2024/01 | (No article.)                                                                 | Happy New Year! |
 | 2024/04 | It turns out Other Countries aren't Normal Either                             |[Other_Countries.ipynb](https://www.github.com/Farmhouse121/Wilmott-Articles/blob/main/Other_Countries.ipynb)|
